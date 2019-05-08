@@ -1,2 +1,2 @@
 # best-repo-ever
-For training
+For training and things of that nature.
